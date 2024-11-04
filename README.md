@@ -1,5 +1,9 @@
 ![Marlin Oyster Logo](./logo.svg)
 
+# Archival
+
+Archived in favour of https://github.com/marlinprotocol/oyster-monorepo
+
 # Iperf3 Enclave
 
 The iperf3 enclave packages iperf3 along with related services in an enclave for benchmarking networking throughput.
